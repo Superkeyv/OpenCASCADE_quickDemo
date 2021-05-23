@@ -1,0 +1,30 @@
+{
+	"material1" : 
+	{
+		"Absorptivity" : 0.1,
+		"Reflectivity" : 0.3,
+		"Refractivity" : 0.4,
+		"Transmissivity" : 0.2
+	},
+	"material3" : 
+	{
+		"Absorptivity" : 0.4,
+		"Reflectivity" : 0.2,
+		"Refractivity" : 0.1,
+		"Transmissivity" : 0.3
+	},
+	"土壤" : 
+	{
+		"Absorptivity" : 0.0,
+		"Reflectivity" : 0.0,
+		"Refractivity" : 0.0,
+		"Transmissivity" : 0.0
+	},
+	"塑料" : 
+	{
+		"Absorptivity" : 0.1,
+		"Reflectivity" : 0.1,
+		"Refractivity" : 0.0,
+		"Transmissivity" : 0.8
+	}
+}
